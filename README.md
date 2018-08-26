@@ -1,1 +1,2 @@
-# lean-testing-report
+# Lean Testing Report
+A LaTeX-based report, for the communication of essential testing results information to stakeholders.  The intent is a functional starting point - before further adaptation to the project/organizational context.
